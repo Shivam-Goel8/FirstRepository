@@ -1,4 +1,4 @@
 # FirstRepository
 here, is my first repo
 <br>
-Author - Shivam Goel
+Author - Shivam
